@@ -1,4 +1,5 @@
-![image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/a9a3e9c0-73f1-4939-b72d-9367a16ba6b4)
+[image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/1cf29192-cdd0-4059-bbfd-a081695d2d79)
+
 
 - 👋 Hi, I’m Ritik Raj Prasad, a rookie in web development 
 - 👀 I’m interested in Machine Learning , specifically Data Science 
