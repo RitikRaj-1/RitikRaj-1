@@ -1,4 +1,5 @@
-![image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/7e9daa64-15e5-47be-b47c-afa0ecb4af31)
+![image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/e835eef0-35fb-47af-b04d-37d65c2443b7)
+
 
 
 
