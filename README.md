@@ -1,4 +1,5 @@
-[image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/1cf29192-cdd0-4059-bbfd-a081695d2d79)
+![image](https://github.com/RitikRaj-1/RitikRaj-1/assets/145713391/7e9daa64-15e5-47be-b47c-afa0ecb4af31)
+
 
 
 - 👋 Hi, I’m Ritik Raj Prasad, a rookie in web development 
